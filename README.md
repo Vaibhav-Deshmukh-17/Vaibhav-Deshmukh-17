@@ -23,6 +23,7 @@ I’m now focused on building a career in the **IT industry** by improving my sk
 Here are a few personal projects I’ve built while learning:
 
 - 🎬 [Netflix Clone](https://github.com/Vaibhav-Deshmukh-17/Netflix-Clone) – Static homepage clone using HTML & CSS
+- 💻 [University Management System](https://github.com/Vaibhav-Deshmukh-17/University-management-system) - Desktop Application to manage student data using Java , Swing with Mysql
 
 
   **More projects coming soon!**
